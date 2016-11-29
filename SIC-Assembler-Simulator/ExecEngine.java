@@ -327,10 +327,10 @@ else if (opc==0x44) {//OR instruction
 	System.out.println("Invalid address!! in OR");
 	
 }
-else if (opc==0x40) {//AND instruction
+else if (opc==0x58) {//AND instruction
 	Integer value = memory.get(addr);
 	if (value!=null) {
-		reg_A =(reg_A)& getVal(addr);
+		reg_A =(reg_A)&(getVal(addr));
 	}
 	else
 	System.out.println("Invalid address!! in AND");
