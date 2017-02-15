@@ -2,8 +2,8 @@
 # SIC - ASSEMBLER - SIMULATOR
 
 ### Contribution
-- Contribution of Shubham Ranu : Designing OPTAB.
-- Sushant Gupta : Assembler and their helper classes like ObjectCode,TextRecordClaass,EndRecord,HeaderRecord,Pass1,Pass2.
+- Shubham Ranu : Designing OPTAB.
+- Sushant Gupta : Assembler and their helper classes like ObjectCode, TextRecordClaass, EndRecord, HeaderRecord, Pass1, Pass2.
 - Vineet Kumar and Hari Bhushan : ExecEngine Class (loader part and objectcode executer)  & GUI for Simulator.
 
 
